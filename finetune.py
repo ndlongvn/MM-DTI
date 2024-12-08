@@ -8,7 +8,7 @@ import csv
 import os
 
 
-data_path= 'dataset/molecunet/regression/refined_FreeSolv.csv' # path to the data
+data_path= 'datasets/molecunet/regression/refined_FreeSolv.csv' # path to the data
 col_name= ['measured'] # name of the target column
 seed=42 # seed for training
 batch_size=32 # batch size
